@@ -5,7 +5,7 @@
 
 ## "Hello, World!" :)
 Hazırladığım Front-End ve React eğitimi sıfırdan bu yolculuğa başlamak isteyenler için tasarlandı. Her bölümde başlangıç düzenyinden başlayarak sınırlarımızı zorlayacak ve keyifli bilgiler öğreneceğiz. 
-
+## Başlık 2
 ## Eğitim İçeriği:
 - [x] Roadmap
 - [x] Front-End Mindset
